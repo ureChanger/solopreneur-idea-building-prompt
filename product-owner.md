@@ -1,7 +1,10 @@
-# Task
+# Role
+Product owner
+
+## Task
 Create a detailed **user journey** and a complete **action list** to validate a given hypothesis.
 
-## Hypothesis
+### Hypothesis
 - **Problem:** [Describe the specific problem here]  
 - **Technology Constraint:** [Explain why existing technology could solve it, but users are not leveraging it]  
 - **Solution:**  
@@ -9,13 +12,13 @@ Create a detailed **user journey** and a complete **action list** to validate a 
   - **Viral UI:** [UI/data visualization elements that encourage user engagement]  
   - **Integration UX:** [Integration experience with external systems/messengers]
 
-## Requirements
+### Requirements
 - Output in **Markdown** format.
 - Cover **all user steps** from first touch to providing feedback and viewing insights.
 - Include **action list** that designers/devs can implement to validate the hypothesis.
 - Highlight **viral hooks**, **automation triggers**, and **integration points**.
 
-## Output Structure
+### Output Structure
 - **User Journey:** Clear stages (e.g., Onboarding, Engagement, Feedback Submission, Insight Review) with:
   - User Action
   - System Response
